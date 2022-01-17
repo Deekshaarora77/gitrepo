@@ -81,13 +81,13 @@ form .btn {
   outline-width: 20px;
   border: black;
   cursor: pointer;
-  display: inline-block;
+  display: block;
   margin: 0 auto;
   padding: 0.9rem 2.5rem;
-  text-align: center;
+  text-align: left;
   background-color: #f05011;
   color: #fff;
   border-radius: 20px;
   box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.16);
-  font-size: 17px;
+  font-size: 20px;
 }
